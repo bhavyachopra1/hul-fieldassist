@@ -1,11 +1,9 @@
 import streamlit as st
 import os
-import requests
 from pathlib import Path
 import sys
 sys.path.append(str(Path(__file__).resolve().parents[1]))
-API_URL=os.getenv('API_URL','http://localhost:8000')
-
+from app.rag import answer
 st.set_page_config(page_title='HUL FieldAssist', page_icon='🧭', layout='wide')
 st.markdown('''<style> .block-container{padding-top:2rem;max-width:1100px} .source{padding:.65rem;border:1px solid #ddd;border-radius:10px;margin:.35rem 0;font-size:.9rem} </style>''', unsafe_allow_html=True)
 
@@ -31,12 +29,13 @@ if q:
     st.session_state.messages.append({'role':'user','content':q})
     with st.chat_message('user'): st.markdown(q)
     with st.chat_message('assistant'):
-        with st.spinner('Searching HUL documents…'):
+        with st.spinner('Searching HUL documents...'):
             try:
-                r=requests.post(f'{API_URL}/ask', json={'question':q,'top_k':8}, timeout=90); r.raise_for_status()
-                payload=r.json(); text=payload['answer']; hits=[{'sid':x['id'],'metadata':x} for x in payload.get('sources',[])]
+                text, hits = answer(q, k=8)
             except Exception as e:
-                text=f'Unable to reach FieldAssist API. Start FastAPI with `uvicorn api.main:app --reload`.\n\n`{e}`'; hits=[]
+                text = f'Unable to answer right now.\n\n{e}'
+                hits = []
+                
         st.markdown(text)
         if hits:
             st.markdown('#### Sources')
