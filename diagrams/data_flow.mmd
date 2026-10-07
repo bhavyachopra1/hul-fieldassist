@@ -1,0 +1,19 @@
+flowchart TB
+  subgraph ING[Ingestion Flow]
+    PDF[Public / Internal PDF] --> VAL[Validate + virus scan]
+    VAL --> PARSE[PDF text extraction]
+    PARSE --> CHUNK[Chunk by page + semantic window]
+    CHUNK --> META[Attach metadata: source, year, type, page]
+    META --> EMB[Embedding model]
+    EMB --> VDB[(Vector DB)]
+  end
+  subgraph QUERY[Query Flow]
+    Q[User question] --> QE[Query embedding]
+    QE --> RET[Top-K retrieval]
+    VDB --> RET
+    RET --> RERANK[Optional rerank + recency weighting]
+    RERANK --> PROMPT[Grounded prompt]
+    PROMPT --> LLM[LLM]
+    LLM --> ANS[Answer + source IDs]
+    ANS --> UI[FieldAssist UI]
+  end

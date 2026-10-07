@@ -1,0 +1,21 @@
+flowchart LR
+  U[Field Sales User] -->|HTTPS| FE[Streamlit / React Frontend]
+  subgraph INTERNET[Public Network Boundary]
+    FE
+  end
+  FE -->|HTTPS + JWT| API[FastAPI API]
+  subgraph APP[Private Application Boundary]
+    API --> AUTH[Auth / RBAC]
+    API --> RAG[RAG Orchestrator]
+    RAG --> VDB[(Vector DB<br/>pgvector / Qdrant)]
+    RAG --> OBS[Logs + Evaluation]
+  end
+  RAG -->|API call| LLM[LLM Provider]
+  RAG -->|API call| EMB[Embedding Provider]
+  subgraph DATA[Data Boundary]
+    OBJ[(Object Storage<br/>PDFs)]
+    ING[Ingestion Worker]
+    OBJ --> ING --> EMB
+    EMB --> VDB
+  end
+  LLM --> RAG

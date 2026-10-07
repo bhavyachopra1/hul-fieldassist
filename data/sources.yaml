@@ -1,0 +1,61 @@
+sources:
+  - id: hul_ar_2025_26
+    title: HUL Integrated Annual Report 2025-26
+    year: 2025-26
+    url: https://www.hul.co.in/files/annual-report-2025-26.pdf
+    type: annual_report
+  - id: hul_ar_2024_25
+    title: HUL Integrated Annual Report 2024-25
+    year: 2024-25
+    url: https://www.hul.co.in/files/annual-report-2024-25.pdf
+    type: annual_report
+  - id: hul_ar_2023_24
+    title: HUL Integrated Annual Report 2023-24
+    year: 2023-24
+    url: https://www.hul.co.in/files/annual-report-2023-24.pdf
+    type: annual_report
+  - id: hul_ar_2022_23
+    title: HUL Integrated Annual Report 2022-23
+    year: 2022-23
+    url: https://www.hul.co.in/files/9e960af6-1a17-48fa-897d-f99836f1d0c4/annual-report---2022-23--2--bwicfx.pdf
+    type: annual_report
+  - id: hul_ar_2021_22
+    title: HUL Integrated Annual Report 2021-22
+    year: 2021-22
+    url: https://www.hul.co.in/files/92ui5egz/production/8a1b3f103408328781a6ebf434b8e5172e4bfc91.pdf
+    type: annual_report
+  - id: hul_brsr_2025_26
+    title: HUL BRSR 2025-26
+    year: 2025-26
+    url: https://hul-performance-highlights.hul.co.in/performance-highlights-fy-2025-2026/brsr/pdfs/BRSR26.pdf
+    type: brsr
+  - id: hul_brsr_2024_25
+    title: HUL BRSR 2024-25
+    year: 2024-25
+    url: https://hul-performance-highlights.hul.co.in/performance-highlights-fy-2024-2025/brsr/pdf/HUL-IR-24-25_BRSR_Final.pdf
+    type: brsr
+  - id: hul_brsr_2023_24
+    title: HUL BRSR 2023-24
+    year: 2023-24
+    url: https://www.hul.co.in/files/2916e8e1-ef4e-42fe-a270-2ebf5e9dfb24/hul-2023-2024-brsr.pdf
+    type: brsr
+  - id: hul_investor_apr_2025
+    title: HUL Investor Presentation FY25 Results
+    year: 2024-25
+    url: https://www.hul.co.in/files/investor-presentation-24-04-2025.pdf
+    type: investor_presentation
+  - id: hul_investor_jul_2025
+    title: HUL Investor Presentation Q1 FY26
+    year: 2025-26
+    url: https://www.hul.co.in/files/investor-presentation-31-07-2025.pdf
+    type: investor_presentation
+  - id: hul_q1_results_2025
+    title: HUL Q1 FY26 Financial Results
+    year: 2025-26
+    url: https://www.hul.co.in/files/hul-jq25-results-in-pdf.pdf
+    type: financial_results
+  - id: hul_q3_results_2025
+    title: HUL Q3 FY26 Financial Results
+    year: 2025-26
+    url: https://www.hul.co.in/files/outcome-of-board-meeting-12022026.pdf
+    type: financial_results

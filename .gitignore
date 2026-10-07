@@ -1,0 +1,9 @@
+.env
+.chroma/
+__pycache__/
+.pytest_cache/
+*.pyc
+data/raw/*.pdf
+data/processed/*
+.streamlit/secrets.toml
+.DS_Store

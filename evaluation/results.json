@@ -1,0 +1,472 @@
+[
+  {
+    "id": "Q01",
+    "question": "What are HUL's major business segments?",
+    "answer": "HUL's major business segments cover a diversified portfolio across 15-16 FMCG categories including Home Care, Beauty & Wellbeing, Personal Care, and Foods. The company serves diverse consumer needs with over 50 brands, many of which have annual turnovers exceeding \u20b91,000 crores. Key focus areas include Home Care liquids, Fabric Conditioners, Hair Conditioners, Bodywash, Premium Skin and Hair Care, and Condiments. HUL drives growth through science-backed innovations and a strong distribution network reaching over 9 million retail outlets across urban and rural India [S1], [S3], [S4], [S5], [S7].",
+    "sources": [
+      {
+        "type": "annual_report",
+        "page": 4,
+        "url": "https://www.hul.co.in/files/annual-report-2025-26.pdf",
+        "year": "2025-26",
+        "source_id": "hul_ar_2025_26",
+        "title": "HUL Integrated Annual Report 2025-26"
+      },
+      {
+        "type": "annual_report",
+        "page": 32,
+        "source_id": "hul_ar_2025_26",
+        "url": "https://www.hul.co.in/files/annual-report-2025-26.pdf",
+        "title": "HUL Integrated Annual Report 2025-26",
+        "year": "2025-26"
+      },
+      {
+        "title": "HUL Integrated Annual Report 2023-24",
+        "year": "2023-24",
+        "type": "annual_report",
+        "url": "https://www.hul.co.in/files/annual-report-2023-24.pdf",
+        "page": 2,
+        "source_id": "hul_ar_2023_24"
+      },
+      {
+        "page": 43,
+        "source_id": "hul_ar_2025_26",
+        "type": "annual_report",
+        "year": "2025-26",
+        "title": "HUL Integrated Annual Report 2025-26",
+        "url": "https://www.hul.co.in/files/annual-report-2025-26.pdf"
+      },
+      {
+        "year": "2024-25",
+        "page": 55,
+        "title": "HUL Integrated Annual Report 2024-25",
+        "url": "https://www.hul.co.in/files/annual-report-2024-25.pdf",
+        "type": "annual_report",
+        "source_id": "hul_ar_2024_25"
+      }
+    ]
+  },
+  {
+    "id": "Q02",
+    "question": "Which Home Care brands target value-seeking or mass-market consumers?",
+    "answer": "HUL's Home Care portfolio targets value-seeking or mass-market consumers through brands like Wheel and Rin, which cater to the mass detergent segment and value-conscious households. The company expands value offerings with accessible pricing, smaller and mid-tier SKUs, and democratised formats to ensure relevance for price-sensitive consumers. For example, Wheel delivers strong competitive growth in the mass detergents segment, and Rin celebrates everyday consumers with inspiring campaigns. At the same time, HUL balances this with premiumisation in other brands, but the value segment is clearly served by these accessible brands and formats [S4], [S6].",
+    "sources": [
+      {
+        "title": "HUL Integrated Annual Report 2024-25",
+        "type": "annual_report",
+        "page": 17,
+        "year": "2024-25",
+        "url": "https://www.hul.co.in/files/annual-report-2024-25.pdf",
+        "source_id": "hul_ar_2024_25"
+      },
+      {
+        "title": "HUL Integrated Annual Report 2023-24",
+        "year": "2023-24",
+        "url": "https://www.hul.co.in/files/annual-report-2023-24.pdf",
+        "source_id": "hul_ar_2023_24",
+        "type": "annual_report",
+        "page": 17
+      },
+      {
+        "year": "2025-26",
+        "page": 12,
+        "url": "https://www.hul.co.in/files/annual-report-2025-26.pdf",
+        "title": "HUL Integrated Annual Report 2025-26",
+        "source_id": "hul_ar_2025_26",
+        "type": "annual_report"
+      },
+      {
+        "type": "annual_report",
+        "source_id": "hul_ar_2025_26",
+        "url": "https://www.hul.co.in/files/annual-report-2025-26.pdf",
+        "page": 43,
+        "year": "2025-26",
+        "title": "HUL Integrated Annual Report 2025-26"
+      },
+      {
+        "page": 26,
+        "url": "https://www.hul.co.in/files/9e960af6-1a17-48fa-897d-f99836f1d0c4/annual-report---2022-23--2--bwicfx.pdf",
+        "type": "annual_report",
+        "source_id": "hul_ar_2022_23",
+        "year": "2022-23",
+        "title": "HUL Integrated Annual Report 2022-23"
+      }
+    ]
+  },
+  {
+    "id": "Q03",
+    "question": "What is Surf Excel Smart Shots?",
+    "answer": "Surf Excel Smart Shots is a single-dose, soluble liquid detergent capsule with a unique three-chamber design. It is specifically engineered for fully automatic front and top load washing machines. The three chambers incorporate advanced technology for effective stain removal, long-lasting fragrance, and fabric care. This format caters to consumers seeking precision, ease of use, and a premium laundry experience, reinforcing Surf Excel's leadership in next-generation laundry solutions [S1], [S2].",
+    "sources": [
+      {
+        "source_id": "hul_ar_2025_26",
+        "title": "HUL Integrated Annual Report 2025-26",
+        "year": "2025-26",
+        "url": "https://www.hul.co.in/files/annual-report-2025-26.pdf",
+        "page": 13,
+        "type": "annual_report"
+      },
+      {
+        "year": "2024-25",
+        "url": "https://www.hul.co.in/files/annual-report-2024-25.pdf",
+        "title": "HUL Integrated Annual Report 2024-25",
+        "source_id": "hul_ar_2024_25",
+        "page": 18,
+        "type": "annual_report"
+      },
+      {
+        "url": "https://www.hul.co.in/files/annual-report-2024-25.pdf",
+        "source_id": "hul_ar_2024_25",
+        "year": "2024-25",
+        "title": "HUL Integrated Annual Report 2024-25",
+        "type": "annual_report",
+        "page": 19
+      },
+      {
+        "type": "annual_report",
+        "source_id": "hul_ar_2021_22",
+        "title": "HUL Integrated Annual Report 2021-22",
+        "page": 7,
+        "url": "https://www.hul.co.in/files/92ui5egz/production/8a1b3f103408328781a6ebf434b8e5172e4bfc91.pdf",
+        "year": "2021-22"
+      },
+      {
+        "page": 13,
+        "year": "2025-26",
+        "url": "https://www.hul.co.in/files/annual-report-2025-26.pdf",
+        "title": "HUL Integrated Annual Report 2025-26",
+        "source_id": "hul_ar_2025_26",
+        "type": "annual_report"
+      }
+    ]
+  },
+  {
+    "id": "Q04",
+    "question": "What was HUL's turnover in FY2025-26?",
+    "answer": "HUL's turnover in FY 2025-26 was \u20b971,947.55 crores as per the Integrated Annual Report 2025-26 [S5].",
+    "sources": [
+      {
+        "year": "2025-26",
+        "title": "HUL Integrated Annual Report 2025-26",
+        "source_id": "hul_ar_2025_26",
+        "type": "annual_report",
+        "page": 41,
+        "url": "https://www.hul.co.in/files/annual-report-2025-26.pdf"
+      },
+      {
+        "url": "https://www.hul.co.in/files/92ui5egz/production/8a1b3f103408328781a6ebf434b8e5172e4bfc91.pdf",
+        "year": "2021-22",
+        "page": 9,
+        "title": "HUL Integrated Annual Report 2021-22",
+        "source_id": "hul_ar_2021_22",
+        "type": "annual_report"
+      },
+      {
+        "title": "HUL Integrated Annual Report 2022-23",
+        "source_id": "hul_ar_2022_23",
+        "url": "https://www.hul.co.in/files/9e960af6-1a17-48fa-897d-f99836f1d0c4/annual-report---2022-23--2--bwicfx.pdf",
+        "year": "2022-23",
+        "page": 348,
+        "type": "annual_report"
+      },
+      {
+        "page": 14,
+        "title": "HUL Integrated Annual Report 2023-24",
+        "source_id": "hul_ar_2023_24",
+        "type": "annual_report",
+        "year": "2023-24",
+        "url": "https://www.hul.co.in/files/annual-report-2023-24.pdf"
+      },
+      {
+        "year": "2025-26",
+        "url": "https://www.hul.co.in/files/annual-report-2025-26.pdf",
+        "type": "annual_report",
+        "source_id": "hul_ar_2025_26",
+        "title": "HUL Integrated Annual Report 2025-26",
+        "page": 124
+      }
+    ]
+  },
+  {
+    "id": "Q05",
+    "question": "What are HUL's four sustainability priorities?",
+    "answer": "HUL's four sustainability priorities are Climate, Nature, Plastics, and Livelihoods. These priorities focus on urgent action areas where HUL can make the maximum impact, including achieving net-zero emissions by 2039, embedding regenerative agriculture in the food supply chain, reducing and recycling plastic packaging and waste, and supporting livelihood-building programs like Project Shakti and Prabhat [S1], [S2], [S3], [S4], [S7].",
+    "sources": [
+      {
+        "title": "HUL Integrated Annual Report 2024-25",
+        "source_id": "hul_ar_2024_25",
+        "page": 13,
+        "url": "https://www.hul.co.in/files/annual-report-2024-25.pdf",
+        "year": "2024-25",
+        "type": "annual_report"
+      },
+      {
+        "type": "annual_report",
+        "url": "https://www.hul.co.in/files/annual-report-2024-25.pdf",
+        "page": 86,
+        "title": "HUL Integrated Annual Report 2024-25",
+        "source_id": "hul_ar_2024_25",
+        "year": "2024-25"
+      },
+      {
+        "year": "2024-25",
+        "source_id": "hul_ar_2024_25",
+        "page": 76,
+        "url": "https://www.hul.co.in/files/annual-report-2024-25.pdf",
+        "type": "annual_report",
+        "title": "HUL Integrated Annual Report 2024-25"
+      },
+      {
+        "url": "https://hul-performance-highlights.hul.co.in/performance-highlights-fy-2024-2025/brsr/pdf/HUL-IR-24-25_BRSR_Final.pdf",
+        "type": "brsr",
+        "title": "HUL BRSR 2024-25",
+        "year": "2024-25",
+        "page": 3,
+        "source_id": "hul_brsr_2024_25"
+      },
+      {
+        "title": "HUL BRSR 2023-24",
+        "year": "2023-24",
+        "source_id": "hul_brsr_2023_24",
+        "url": "https://www.hul.co.in/files/2916e8e1-ef4e-42fe-a270-2ebf5e9dfb24/hul-2023-2024-brsr.pdf",
+        "type": "brsr",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "Q06",
+    "question": "What happened with Minimalist in FY2025?",
+    "answer": "In FY2025, Hindustan Unilever Limited (HUL) acquired a 90.5% stake in Uprising Science Private Limited, the company behind the brand Minimalist, on 21st April 2025 for \u20b92,706 crores. The acquisition was approved by the Board on 22nd January 2025 and by the Competition Commission of India on 17th March 2025. Minimalist is a fast-growing digital-first skincare and haircare brand that crossed an annual turnover of \u20b9500 crores in FY2025. This acquisition is part of HUL's strategy to premiumise and transform its Beauty & Wellbeing portfolio towards higher growth demand spaces. Post-acquisition, Minimalist joined HUL's Beauty & Wellbeing division and contributed to the consolidated financial results from 21st April 2025 onwards [S1], [S3], [S4], [S5], [S7], [S8].",
+    "sources": [
+      {
+        "page": 65,
+        "url": "https://www.hul.co.in/files/annual-report-2024-25.pdf",
+        "year": "2024-25",
+        "source_id": "hul_ar_2024_25",
+        "title": "HUL Integrated Annual Report 2024-25",
+        "type": "annual_report"
+      },
+      {
+        "year": "2025-26",
+        "title": "HUL Integrated Annual Report 2025-26",
+        "type": "annual_report",
+        "url": "https://www.hul.co.in/files/annual-report-2025-26.pdf",
+        "page": 229,
+        "source_id": "hul_ar_2025_26"
+      },
+      {
+        "type": "annual_report",
+        "source_id": "hul_ar_2024_25",
+        "year": "2024-25",
+        "page": 53,
+        "url": "https://www.hul.co.in/files/annual-report-2024-25.pdf",
+        "title": "HUL Integrated Annual Report 2024-25"
+      },
+      {
+        "url": "https://www.hul.co.in/files/annual-report-2024-25.pdf",
+        "source_id": "hul_ar_2024_25",
+        "year": "2024-25",
+        "title": "HUL Integrated Annual Report 2024-25",
+        "page": 53,
+        "type": "annual_report"
+      },
+      {
+        "year": "2024-25",
+        "title": "HUL Integrated Annual Report 2024-25",
+        "source_id": "hul_ar_2024_25",
+        "type": "annual_report",
+        "page": 175,
+        "url": "https://www.hul.co.in/files/annual-report-2024-25.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q07",
+    "question": "What did HUL report about liquids in Home Care in FY2025-26?",
+    "answer": "In FY 2025-26, HUL reported that its Home Care business continued to experience strong growth in liquids, driven by rapid format upgradation to liquids supported by calibrated pricing actions to improve access and affordability. The company invested significantly in market making to drive trials and penetration gains in liquids across all tiers, resulting in strong double-digit underlying volume growth in liquids. These efforts were complemented by sharper channel design, partnerships, and scaled demand generation, which helped build value and strengthen HUL's leadership position with consistent volume share gains. The Home Care growth strategy focused on building category value through format upgradation and premiumisation, maintaining a disciplined price-value framework amidst supply chain volatility and commodity cycles. Additionally, HUL advanced gentler yet superior cleaning solutions in dishwashing liquids, aligning with consumer trends towards sustainability and wellbeing. Overall, the Home Care segment delivered a 4% underlying sales growth with high-single digit underlying volume growth, reflecting sustained consumer demand and competitive pricing strategies in liquids and other categories [S2], [S3], [S4].",
+    "sources": [
+      {
+        "source_id": "hul_ar_2024_25",
+        "url": "https://www.hul.co.in/files/annual-report-2024-25.pdf",
+        "title": "HUL Integrated Annual Report 2024-25",
+        "type": "annual_report",
+        "year": "2024-25",
+        "page": 17
+      },
+      {
+        "page": 12,
+        "title": "HUL Integrated Annual Report 2025-26",
+        "type": "annual_report",
+        "url": "https://www.hul.co.in/files/annual-report-2025-26.pdf",
+        "source_id": "hul_ar_2025_26",
+        "year": "2025-26"
+      },
+      {
+        "source_id": "hul_ar_2025_26",
+        "url": "https://www.hul.co.in/files/annual-report-2025-26.pdf",
+        "page": 43,
+        "type": "annual_report",
+        "title": "HUL Integrated Annual Report 2025-26",
+        "year": "2025-26"
+      },
+      {
+        "url": "https://www.hul.co.in/files/annual-report-2025-26.pdf",
+        "page": 44,
+        "source_id": "hul_ar_2025_26",
+        "title": "HUL Integrated Annual Report 2025-26",
+        "year": "2025-26",
+        "type": "annual_report"
+      },
+      {
+        "source_id": "hul_ar_2022_23",
+        "year": "2022-23",
+        "title": "HUL Integrated Annual Report 2022-23",
+        "page": 26,
+        "url": "https://www.hul.co.in/files/9e960af6-1a17-48fa-897d-f99836f1d0c4/annual-report---2022-23--2--bwicfx.pdf",
+        "type": "annual_report"
+      }
+    ]
+  },
+  {
+    "id": "Q08",
+    "question": "What is HUL's latest publicly reported retail/distribution reach?",
+    "answer": "HUL's latest publicly reported retail/distribution reach is over 9 million retail outlets across India, reaching 9 out of 10 Indian households with one or more of its brands. This includes a strong distribution footprint with more than 3,500 distributors and 32 depots, supported by owned factories and a digitally enabled retailer ecosystem. HUL continues to expand its reach through advanced digital solutions like Shikhar and tailored route-to-market systems for emerging retail formats. The company also invests heavily in omni-channel presence, including general trade, modern trade, e-commerce, and quick commerce channels to ensure broad and seamless brand accessibility nationwide [S1], [S2], [S4], [S6], [S7].",
+    "sources": [
+      {
+        "page": 4,
+        "source_id": "hul_ar_2025_26",
+        "title": "HUL Integrated Annual Report 2025-26",
+        "type": "annual_report",
+        "year": "2025-26",
+        "url": "https://www.hul.co.in/files/annual-report-2025-26.pdf"
+      },
+      {
+        "title": "HUL Integrated Annual Report 2022-23",
+        "url": "https://www.hul.co.in/files/9e960af6-1a17-48fa-897d-f99836f1d0c4/annual-report---2022-23--2--bwicfx.pdf",
+        "type": "annual_report",
+        "year": "2022-23",
+        "source_id": "hul_ar_2022_23",
+        "page": 18
+      },
+      {
+        "page": 32,
+        "year": "2025-26",
+        "type": "annual_report",
+        "url": "https://www.hul.co.in/files/annual-report-2025-26.pdf",
+        "title": "HUL Integrated Annual Report 2025-26",
+        "source_id": "hul_ar_2025_26"
+      },
+      {
+        "type": "annual_report",
+        "page": 55,
+        "url": "https://www.hul.co.in/files/annual-report-2024-25.pdf",
+        "title": "HUL Integrated Annual Report 2024-25",
+        "source_id": "hul_ar_2024_25",
+        "year": "2024-25"
+      },
+      {
+        "url": "https://www.hul.co.in/files/annual-report-2025-26.pdf",
+        "title": "HUL Integrated Annual Report 2025-26",
+        "type": "annual_report",
+        "year": "2025-26",
+        "page": 32,
+        "source_id": "hul_ar_2025_26"
+      }
+    ]
+  },
+  {
+    "id": "Q09",
+    "question": "What new products or innovations were mentioned in HUL's FY2025 results?",
+    "answer": "In HUL's FY2025 results, several new products and innovations were highlighted:\n\n1. Acquisition of Minimalist to strengthen presence in the D2C space and enhance distribution in premium beauty and foods markets [S1].\n\n2. Launch of Diabetes Plus Horlicks, a clinically proven product addressing specific nutritional needs, part of the expanded Horlicks Plus range with scientifically backed products focused on adults [S1], [S5].\n\n3. In Beauty and Personal Care, Lakm\u0113 launched MultiSlayer Face Sticks and the Invisible Sunstick, reflecting product innovation and portfolio transformation [S4].\n\n4. Increased digital transformation including AI-powered demand forecasting, AI-led customized ads, influencer campaigns, and a revamped media spending with 40% digital focus to enhance consumer experience and product awareness [S6].\n\n5. Deployment of global-first manufacturing technologies like \u2018Adaptive Nano\u2019 for flexible batch sizes and faster changeovers, and \u2018Intelligent Mixers\u2019 with high-speed automated packing to improve innovation timelines and capex efficiency [S8].\n\n6. Recognition of manufacturing sites as Advanced Fourth Industrial Revolution (4IR) Lighthouse factories, reflecting advanced digital and manufacturing capabilities [S8].\n\nThese innovations span product development, digital marketing, manufacturing technology, and supply chain integration, positioning HUL for future growth and sustainability [S1], [S4], [S6], [S8].",
+    "sources": [
+      {
+        "page": 56,
+        "source_id": "hul_ar_2024_25",
+        "title": "HUL Integrated Annual Report 2024-25",
+        "type": "annual_report",
+        "year": "2024-25",
+        "url": "https://www.hul.co.in/files/annual-report-2024-25.pdf"
+      },
+      {
+        "type": "annual_report",
+        "url": "https://www.hul.co.in/files/annual-report-2024-25.pdf",
+        "source_id": "hul_ar_2024_25",
+        "title": "HUL Integrated Annual Report 2024-25",
+        "year": "2024-25",
+        "page": 55
+      },
+      {
+        "type": "annual_report",
+        "year": "2023-24",
+        "page": 36,
+        "title": "HUL Integrated Annual Report 2023-24",
+        "url": "https://www.hul.co.in/files/annual-report-2023-24.pdf",
+        "source_id": "hul_ar_2023_24"
+      },
+      {
+        "url": "https://www.hul.co.in/files/annual-report-2023-24.pdf",
+        "title": "HUL Integrated Annual Report 2023-24",
+        "source_id": "hul_ar_2023_24",
+        "page": 14,
+        "year": "2023-24",
+        "type": "annual_report"
+      },
+      {
+        "year": "2023-24",
+        "source_id": "hul_ar_2023_24",
+        "type": "annual_report",
+        "page": 13,
+        "title": "HUL Integrated Annual Report 2023-24",
+        "url": "https://www.hul.co.in/files/annual-report-2023-24.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Q10",
+    "question": "What is the current distributor margin for Surf Excel?",
+    "answer": "The available HUL documents do not provide specific information on the current distributor margin for Surf Excel. Therefore, I couldn't verify that from the available HUL documents.",
+    "sources": [
+      {
+        "page": 29,
+        "title": "HUL Integrated Annual Report 2022-23",
+        "type": "annual_report",
+        "url": "https://www.hul.co.in/files/9e960af6-1a17-48fa-897d-f99836f1d0c4/annual-report---2022-23--2--bwicfx.pdf",
+        "source_id": "hul_ar_2022_23",
+        "year": "2022-23"
+      },
+      {
+        "url": "https://www.hul.co.in/files/annual-report-2024-25.pdf",
+        "page": 18,
+        "type": "annual_report",
+        "title": "HUL Integrated Annual Report 2024-25",
+        "year": "2024-25",
+        "source_id": "hul_ar_2024_25"
+      },
+      {
+        "type": "annual_report",
+        "url": "https://www.hul.co.in/files/annual-report-2024-25.pdf",
+        "source_id": "hul_ar_2024_25",
+        "title": "HUL Integrated Annual Report 2024-25",
+        "year": "2024-25",
+        "page": 19
+      },
+      {
+        "url": "https://www.hul.co.in/files/annual-report-2024-25.pdf",
+        "title": "HUL Integrated Annual Report 2024-25",
+        "source_id": "hul_ar_2024_25",
+        "year": "2024-25",
+        "page": 18,
+        "type": "annual_report"
+      },
+      {
+        "page": 17,
+        "year": "2021-22",
+        "url": "https://www.hul.co.in/files/92ui5egz/production/8a1b3f103408328781a6ebf434b8e5172e4bfc91.pdf",
+        "type": "annual_report",
+        "source_id": "hul_ar_2021_22",
+        "title": "HUL Integrated Annual Report 2021-22"
+      }
+    ]
+  }
+]
